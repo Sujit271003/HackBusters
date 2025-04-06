@@ -1,4 +1,4 @@
-# WGS App
+# HacktoClash App
 
 A Kotlin-based Android application featuring a game with multiple screens.
 
